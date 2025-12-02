@@ -1,1 +1,41 @@
-[]
+[
+{
+		"title": "browsers",
+		"date":"Tue Dec 02 2025 12:01:17 GMT+0000 (Coordinated Universal Time)",
+		"url":"/browsers/",
+		"content": "Our second session\nfollowed by a session on <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/ui/\">ui</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "files",
+		"date":"Tue Dec 02 2025 12:01:17 GMT+0000 (Coordinated Universal Time)",
+		"url":"/files/",
+		"content": "This will be our first session.\nFollowed by a session on <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/browsers/\">browsers</a>",
+		"tags": [ "note"]
+},
+
+{
+		"title": "notes",
+		"date":"Tue Dec 02 2025 12:01:17 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "This is my index page\nThere is a page on setting up a free <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn/\">vpn</a>\nThere are also pages on planned sessions:\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/files/\">files</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/browsers/\">browsers</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/ui/\">ui</a>",
+		"tags": [ "note","gardenEntry"]
+},
+
+{
+		"title": "ui",
+		"date":"Tue Dec 02 2025 12:01:17 GMT+0000 (Coordinated Universal Time)",
+		"url":"/ui/",
+		"content": "this is the ui session",
+		"tags": [ "note"]
+},
+
+{
+		"title": "vpn",
+		"date":"Tue Dec 02 2025 12:01:17 GMT+0000 (Coordinated Universal Time)",
+		"url":"/vpn/",
+		"content": "this is the vpn setup help page",
+		"tags": [ "note"]
+}
+]
